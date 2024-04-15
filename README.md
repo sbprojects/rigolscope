@@ -10,4 +10,4 @@ the current timestamp.
 You can also specify the filename you wish to save the screenshot as.
 Pictures are stored as png files.
 
-More information can be found on https://www.sbprojects.net
+More information can be found on https://www.sbprojects.net/mylab/mso1104z/
